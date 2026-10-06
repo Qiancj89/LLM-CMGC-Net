@@ -112,9 +112,7 @@ unique patient identifiers.
 
 ## Publication and sharing
 
-Review every output before publication. Do not commit real patient names,
-clinical narratives, imaging, masks, manifests, pretrained/trained weights,
-or patient-level prediction tables. The interpretability visual-case script
+The interpretability visual-case script
 accepts a **private** `--cases-file` CSV (`Outcome,Patient_Name`) instead of
 embedding names in public code. The data-quality correction script modifies
 private label files and should be run only after local review and backup.

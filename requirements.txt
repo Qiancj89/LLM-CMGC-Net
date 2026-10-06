@@ -1,0 +1,16 @@
+# Import-level dependencies, not a historical version lockfile.
+numpy
+pandas
+scipy
+scikit-learn
+opencv-python
+torch
+torchvision
+transformers
+tqdm
+albumentations
+nibabel
+matplotlib
+Pillow
+openpyxl
+bitsandbytes
